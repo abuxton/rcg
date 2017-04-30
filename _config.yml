@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: Red Circle Games
+email: tbc@example.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Home to the musings of my mind on idea's for Role Playing and Live Action Role Playing games (RPG, LRP, LaRP). An attempt to wrap some of my thinkings in development practcies to collect and manage them constructively. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "www.redcirclegames.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: 
+github_username:  abuxton
 
 # Build settings
 markdown: kramdown
