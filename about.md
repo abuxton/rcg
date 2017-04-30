@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Here you will find my independent musings about gaming, role playing games (RPGs), Live role playing or Live Action Role Playing (LRP, LARP or LaRP) and game system ideas.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I have been involved in these hobbies for over two decades and although invloved in digital media and digital gaming this is not intended to muse on that subject. Although it will muse greatly on the use of technology in RPGs and LARP.
