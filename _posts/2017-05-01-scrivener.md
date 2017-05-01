@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Scrivener"
+date:   2017-05-01 12:00:01 +0100
 description: "Blog post about Scrivener writing software and it's use case for gaming, and Github workflows with Scrivener"
-category: "posts"
+categories: posts
 tags: technology, writing, github, scrivener, backup
 image:
  feature:
