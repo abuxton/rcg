@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+![Red circle games]({{ site.url }}/_assets/images/rcg-header.jpg)
 ![Red Circle Games](http://redcirclegames.co.uk/_assets/images/rcg-header.jpg)
 Here you will find my independent musings about gaming, role playing games (RPGs), Live role playing or Live Action Role Playing (LRP, LARP or LaRP) and game system ideas.
 
