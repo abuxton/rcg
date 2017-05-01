@@ -8,3 +8,4 @@ Here you will find my independent musings about gaming, role playing games (RPGs
 I have been involved in these hobbies for over two decades and although involved in digital media and digital gaming this is not intended to muse on that subject. Although it will muse greatly on the use of technology in RPGs and LARP.
 
 !['When People unknowingly meet one day, Red Circle quote attributed wrongly to Buddha'](http://redcirclegames.co.uk/assets/images/rcg-header.jpg)
+*[This Buddha quote is made up by Jean Pierre Melville](https://en.wikipedia.org/wiki/Le_Cercle_Rouge)
