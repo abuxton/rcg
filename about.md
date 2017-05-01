@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-Here you will find my independent musings about gaming, role playing games (RPGs), Live role playing or Live Action Role Playing (LRP, LARP or LaRP) and game system ideas.
+Welcome to Red Circle Games, an independent effort to gather musings on Role Playing Games and Live Role Playing Games (RPG, LRP,LARP and LaRP). Regardless of the origin or inspiration.
+
+Here you will find my independent musings about gaming, technology in relationship to gaming RPG and LRP as well as thoughts on creative endeavours in for RPG and LRP.    
 
 I have been involved in these hobbies for over two decades and although involved in digital media and digital gaming this is not intended to muse on that subject. Although it will muse greatly on the use of technology in RPGs and LARP.
 
