@@ -5,7 +5,9 @@ date:   2017-04-30 19:59:45 +0100
 categories: posts
 tags: init, welcome,rcg
 ---
-![Red Circle games logo](http://redcirclegames.co.uk/assets/images/rcg-fb-180x180.jpg) Welcome to Red Circle Games, an independent effort to gather my musings on Role Playing and Live Role Playing Games (RPG, LRP,LARP and LaRP). Regardless of the origin be it International, Nordic, European, English.
+![Red Circle games logo](http://redcirclegames.co.uk/assets/images/rcg-fb-180x180.jpg)
+
+<img src='http://redcirclegames.co.uk/assets/images/rcg-fb-180x180.jpg' style='float:left' /> Welcome to Red Circle Games, an independent effort to gather my musings on Role Playing and Live Role Playing Games (RPG, LRP,LARP and LaRP). Regardless of the origin be it International, Nordic, European, English.
 [Red Circle games logo](http://redcirclegames.co.uk/assets/images/rcg-fb-180x180.jpg)
 
 There will be a mixture over time of system ideas, event concepts, scenarios and also more than a few observations on style, safety and general gaming.
