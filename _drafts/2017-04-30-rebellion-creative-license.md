@@ -2,10 +2,10 @@
 layout: post
 title: "Rebellion Creative license "
 description: ""
-category: "projects"
+category: "posts"
 tags: lrp,larp,2000ad,rebellion,Strontium Dog
 image:
- feature: 
+ feature:
  credit:
  creditlink:
 comments: false
