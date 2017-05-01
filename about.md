@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-Welcome to Red Circle Games, an independent effort to gather musings on Role Playing Games and Live Role Playing Games (RPG, LRP,LARP and LaRP). Regardless of the origin or inspiration.
+<img src='http://redcirclegames.co.uk/assets/images/rcg-fb-180x180.jpg' style='float:left' />Welcome to Red Circle Games, an independent effort to gather musings on Role Playing Games and Live Role Playing Games (RPG, LRP,LARP and LaRP). Regardless of the origin or inspiration.
 
 Here you will find my independent musings about gaming, technology in relationship to gaming RPG and LRP as well as thoughts on creative endeavours in for RPG and LRP.    
 
