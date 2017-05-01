@@ -12,8 +12,7 @@ image:
 comments: false
 share: true
 ---
-{% #include JB/setup
-   %}
+
 Scrivener as become the goto piece of software for aspiring writers over the last decade. The official site provides a really good overview of their product as the software as matured, so as the support [http://www.literatureandlatte.com/scrivener.php] (http://www.literatureandlatte.com/scrivener.php)
 
 One of the nicest features of Scrivener is the ability to use templates for various formats of books, be they Kindle, ePub, fiction or non-fiction etc. Obviously RPG is among these formats and that lends itself to LARP. A awesome starting template is [https://github.com/carsomyr/scrivener_starter](https://github.com/carsomyr/scrivener_starter) which also exposes Scrivener to [Git and Github](http://github.com) a Version Control Repository platform, service and tool wildly used in software development, a discussion for another post.
