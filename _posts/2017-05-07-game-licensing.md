@@ -19,10 +19,9 @@ Yet Live Role Playing Games (LRPs, LARPs) seem to rarely be published with copyr
 
 An interesting divergence I discovered in these links is discussion of the effect that LARP being Player Lead Plot(PLP) as on the validity of any copyright or Intellectual property claim when the customer or `Player` is responsible for creating the plots.
 
-```txt
-Anyone who claims to promote player-led plot must, logically, accept the fact that the players own the campaign. They therefore cannot maintain the double standard of demanding plot control authority over events they do not organise set within the same campaign. Sanctioning and franchising agreements must recognise that the campaign belongs to the players, and may not be taken from them.
-```
 
-~`[Simon Oliver](https://groups.google.com/forum/#!searchin/rec.games.frp.live-action/earthworks$20rules%7Csort:relevance/rec.games.frp.live-action/_Fg8dP7uIUc/ZtmogNO23I8J)`
+>Anyone who claims to promote player-led plot must, logically, accept the fact that the players own the campaign. >They therefore cannot maintain the double standard of demanding plot control authority over events they do not >organise set within the same campaign. Sanctioning and franchising agreements must recognise that the campaign >belongs to the players, and may not be taken from them.
+
+~ [Simon Oliver](https://groups.google.com/forum/#!searchin/rec.games.frp.live-action/earthworks$20rules%7Csort:relevance/rec.games.frp.live-action/_Fg8dP7uIUc/ZtmogNO23I8J)
 
 It's an interesting topic and even this small post of my thoughts and reading as spiraled away far further than I expected, I wanted to mention licensing as some of my upcoming posts are discussions on how I would host games inspired by media from [Rebellion](http://www.rebellion.co.uk/about-us) and their 2000ad publishing range, and Call of Cthulhu inspired Delta Green [Pagan Publishing](http://www.tccorp.com/site09/tccorp_home.html) among other things, The discussion will not stop me posting the articles, but it does make me stop to consider whether i have any right to the ideas about running them, I planned to publish them openly So I will regardless.
