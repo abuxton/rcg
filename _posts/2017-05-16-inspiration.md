@@ -3,7 +3,7 @@ layout: post
 title: "Inspiration"
 description: ""
 category:
-tags: [film,music,movies,books]
+tags: [film,music,movies,books,inspiration]
 image:
  feature:
  credit:
