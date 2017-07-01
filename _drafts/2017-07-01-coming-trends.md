@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "John Wick, the Continental"
+title: "coming trends"
 description: ""
-category:
+category: 
 tags: []
 image:
- feature:
+ feature: 
  credit:
  creditlink:
 comments: false
