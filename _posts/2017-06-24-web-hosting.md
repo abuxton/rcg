@@ -38,5 +38,5 @@ See it's not just simply naming your game company or organisation, it's not simp
 
 
 
-*  `* [https://investor.verisign.com/releasedetail.cfm?releaseid=920138](https://investor.verisign.com/releasedetail.cfm?releaseid=920138)`
-* `** [http://www.internetworldstats.com/facebook.htm](http://www.internetworldstats.com/facebook.htm)`
+*  * [https://investor.verisign.com/releasedetail.cfm?releaseid=920138](https://investor.verisign.com/releasedetail.cfm?releaseid=920138)
+* ** [http://www.internetworldstats.com/facebook.htm](http://www.internetworldstats.com/facebook.htm)
