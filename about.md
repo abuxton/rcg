@@ -1,7 +1,14 @@
 ---
 layout: page
-title: About
+title: About Red Circle Games, RCG
 permalink: /about/
+tags: [rcg,about,info,]
+image:
+ feature:
+ credit:
+ creditlink:
+comments: false
+share: true
 ---
 <img src='http://redcirclegames.co.uk/assets/images/rcg-fb-180x180.jpg' style='float:left' />Welcome to Red Circle Games, an independent effort to gather musings on Role Playing Games and Live Role Playing Games (RPG, LRP,LARP and L(A)RP). Regardless of the origin or inspiration.
 
