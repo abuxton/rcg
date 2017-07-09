@@ -21,4 +21,4 @@ share: true
 ||||
 | **L** | | |
 |---|||
-| Live Action Role Play |  The Live Action Role Playing game itself,| L(A)RP |
+| Live Action Role Play |  The Live Action Role Playing game itself, known as LRP, LARP or FLRP see [http://redcirclegames.co.uk/posts/2017/07/09/to-lrp-or-to-larp.html](http://redcirclegames.co.uk/posts/2017/07/09/to-lrp-or-to-larp.html) for reasoning behind RCG acronym L(A)RP. | L(A)RP |
