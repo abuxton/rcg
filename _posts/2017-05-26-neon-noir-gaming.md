@@ -3,7 +3,7 @@ layout: post
 title: "Neo Noir Gaming"
 description: ""
 category: posts
-tags: game-style,theme,film-noir,neo-noir,larp,inspiration
+tags: [LRP, LARP,game-style,theme,film-noir,neo-noir,inspiration]
 image:
  feature:
  credit:
@@ -19,4 +19,4 @@ Scenes whether chapters, encounters or settings are pockets of light in a darken
 An excellent article on those features and look and feel accompanied the the [2008 Punisher - War Zone](http://www.imdb.com/title/tt0450314/) discussing the look and feel of the movie.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BzYEWrrmH1Y" frameborder="0" allowfullscreen></iframe>
 
-Part of this is why [Red Circle Games](https://en.wikipedia.org/wiki/Le_Cercle_Rouge) exists and is named as such, in my minds eye I can create these captured almost framed scenes and let the players or actors play them out within the confines of the scene, set or event. I'd go as far as to say I would love to indulge a want to run a small scale event or set of scenarios in a small venue, with a single room where the scenarios are well briefed and the set is confined within a Red Circle of some form(tape, stage edge marker, rope light) so that the participants can play them out while others watch and consume. Allowing boundaries to their presentation and execution. 
+Part of this is why [Red Circle Games](https://en.wikipedia.org/wiki/Le_Cercle_Rouge) exists and is named as such, in my minds eye I can create these captured almost framed scenes and let the players or actors play them out within the confines of the scene, set or event. I'd go as far as to say I would love to indulge a want to run a small scale event or set of scenarios in a small venue, with a single room where the scenarios are well briefed and the set is confined within a Red Circle of some form(tape, stage edge marker, rope light) so that the participants can play them out while others watch and consume. Allowing boundaries to their presentation and execution.

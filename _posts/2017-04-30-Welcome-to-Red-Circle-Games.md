@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Red Circle Games!"
 date:   2017-04-30 19:59:45 +0100
 categories: posts
-tags: init, welcome,rcg
+tags: [LRP, LARP,init, welcome,rcg,rpg,gaming]
 ---
 
 <img src='http://redcirclegames.co.uk/assets/images/rcg-fb-180x180.jpg' style='float:left' /> Welcome to Red Circle Games, an independent effort to gather my musings on Role Playing and Live Role Playing Games (RPG, LRP,LARP and LaRP). Regardless of the origin, be it International, Nordic, European, English.

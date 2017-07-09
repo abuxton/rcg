@@ -3,9 +3,9 @@ layout: post
 title: "Bad Company LARP"
 description: ""
 category: "projects"
-tags: lrp,larp,2000ad,rebellion,bad company
+tags: [LRP, LARP, 2000ad, rebellion, 'bad company']
 image:
- feature: 
+ feature:
  credit:
  creditlink:
 comments: false

@@ -3,9 +3,9 @@ layout: post
 title: "Strontium Dog LARP"
 description: ""
 category: "projects"
-tags: lrp,larp,2000ad,rebellion,Strontium Dog
+tags: [LRP, LARP,2000ad,rebellion,Strontium Dog]
 image:
- feature: 
+ feature:
  credit:
  creditlink:
 comments: false
