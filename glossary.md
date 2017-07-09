@@ -12,13 +12,13 @@ share: true
 ---
 
 | Item | Definition | Acronym |
-|------|------------|---------|
-| A | | |
+|------|------------|:---------:|
+| **A** | | |
 |---|||
 ||||
-| A | | |
+| **B** | | |
 |---|||
 ||||
-| L | | |
+| **L** | | |
 |---|||
-|Live Action Role Play|  The Live Action Role Playing game itself,|L(A)RP|
+| Live Action Role Play |  The Live Action Role Playing game itself,| L(A)RP |

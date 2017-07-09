@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About Red Circle Games, RCG
+title: About Red Circle Games
 permalink: /about/
-tags: [rcg,about,info,]
+tags: [rcg,about,info]
 image:
  feature:
  credit:
