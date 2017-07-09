@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LRP, LARP or to L(A)RP"
-date:   2017-05-01 12:00:01 +0100
+date:   2017-07-09 12:00:01 +0100
 description: "Live Action Role Playing, LRP, LARP or L(A)RP, does it matter"
 categories: posts
 tags: [LRP, LARP, L(A)RP, Glossary, definition, acronyms, terminology]
