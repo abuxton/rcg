@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Red Circle Game"
-description: ""
+date:   2017-10-15 12:00:01 +0100
+description: "What is a red circle game"
 category:
 tags: ['LaRP','rcg','freeform']
 image:
