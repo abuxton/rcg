@@ -12,7 +12,7 @@ comments: false
 share: true
 ---
 
-Welcome to the Court of the Star Chamber (https://www.britannica.com/topic/Court-of-Star-Chamber)[https://www.britannica.com/topic/Court-of-Star-Chamber], or what was the Court of the Star Chamber.
+Welcome to the Court of the Star Chamber [https://www.britannica.com/topic/Court-of-Star-Chamber](https://www.britannica.com/topic/Court-of-Star-Chamber), or what was the Court of the Star Chamber.
 
 So what is this discussion, this is a discussion of a concept of how to run a game in the setting of the Court of the Star Chamber. I've thought about this over the years, firstly an invite game to be held in a suitable location, but how would you secure a suitable location? How do you not socially bully a participant but ensure the players that attend are who or the type you want? I have a discussion on invite only events to write, but lets quickly say I don't like them, but I also don't know how to ensure quality of play with out them deterministically. Then I wrote (http://redcirclegames.co.uk/2017/11/10/play-by-mail.html)[http://redcirclegames.co.uk/2017/11/10/play-by-mail.html] where I considered how to distill Tales from the Loop down into a Play by Mail game.
 
