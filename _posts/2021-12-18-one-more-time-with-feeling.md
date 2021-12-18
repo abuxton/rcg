@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "One more time with Feeling!"
-description: ""
+description: "One last attempt at some LARP inspired creativity"
 category:
 tags: ['ideation','rcg', 'new','larp', 'blog']
 image:
- feature: https://redcirclegames.co.uk/assets/images/rcg-header.jpg
+ feature:
  credit:
- creditlink: https://redcirclegames.co.uk
+ creditlink:
 comments: false
 share: true
 ---
