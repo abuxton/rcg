@@ -5,9 +5,9 @@ description: ""
 category:
 tags: ['ideation','rcg', 'new','larp', 'blog']
 image:
- feature: 'https://redcirclegames.co.uk/assets/images/rcg-header.jpg'
- credit: 'https://redcirclegames.co.uk'
- creditlink:
+ feature: https://redcirclegames.co.uk/assets/images/rcg-header.jpg
+ credit:
+ creditlink: https://redcirclegames.co.uk
 comments: false
 share: true
 ---
