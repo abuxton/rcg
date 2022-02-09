@@ -26,5 +26,5 @@ So what happened this time? I don't know I just had a fancy.
 
 We'll come back to all these points, in some more posts for my own brain dumps.
 
-So here I am with a campaign idea for Dungeons and Dragons 5E to enable me to blow the dust off of the books I've been shelving once read. It's a bit classic undertaking in Faerun and Forgotten Realms, with the Starter box to kick off and balance the party and drop them into Sword Coast territory, Waterdeep, and Baldurs Gate that will lead into my favourite 3rd party campaign no I'm not spoiling the suprise here.
+So here I am with a campaign idea for Dungeons and Dragons 5E to enable me to blow the dust off of the books I've been shelving once read. It's a bit classic undertaking in Faerun and Forgotten Realms, with the Starter box to kick off and balance the party and drop them into Sword Coast territory, Waterdeep, and Baldurs Gate that will lead into my favourite 3rd party campaign no I'm not spoiling the surprise here.
 
