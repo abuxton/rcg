@@ -12,7 +12,7 @@ comments: false
 share: true
 ---
 
-"Lockdown tired out and stressed us all" is how i started teh last post.. over 18 months ago. I had an itch and an idea, and some friends thankfully answered the call.
+"Lockdown tired out and stressed us all" is how i started the last post.. over 18 months ago. I had an itch and an idea, and some friends thankfully answered the call.
 
 I meant to write more, I honestly did but I am not a blogger, I've tried over the years but consistent content creator is just not my thing. So here we are a year and a half or more later.
 
