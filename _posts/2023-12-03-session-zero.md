@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is Session Zero"
-description: ""
+description: "An introduction to the concept of Session Zero. So an introduction to the introduction!"
 category:
 tags: ["TTRPG","session0","session-zero","intro"]
 image:
