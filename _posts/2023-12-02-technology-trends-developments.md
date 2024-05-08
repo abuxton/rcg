@@ -28,7 +28,7 @@ This meant I could see player characters at creation, and at stages of game play
 
 The campaign tools in D&D beyond are limited, but I was not creating I was mainly reusing, and having the game module [Lost Mines of Phandelver](https://www.dndbeyond.com/sources/lmop) or the Beginners Box turn out to be a [freebie](https://www.pcgamer.com/now-is-your-last-chance-to-claim-dandds-intro-adventure-lost-mine-of-phandelver-for-free/#:~:text=The%20digital%20version%20of%20Lost,t%20be%20for%20much%20longer.) along side the core rules thanks to the System Reference Document [(SRD)](https://dnd.wizards.com/resources/systems-reference-document) and original Open Gaming License(OGL). Made it an easy choice I didn't really look for alternatives. But I did augment my organization with one simple addition Google Drive and Docs, a place to store PDFs which can be shared, a place to manage docs on notes and campaign notes in a familiar markup that has far more capability than a simple box but no where near the complexity of Software platform s such as World Anvil etc, but I didn't need it at the time.
 
-So there we were, early 2002 with the following list;
+So there we were, early 2022 with the following list;
 
 * Facebook
 * Discord
