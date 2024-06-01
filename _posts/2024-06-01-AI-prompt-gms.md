@@ -3,7 +3,7 @@ layout: post
 title: "AI Assistants and Gaming"
 description: "Using AI and LLMS to help facilitate online gaming and even physical TTRPG or LARP"
 category:
-tags: ["TTRPG","facebook","FB","D&D"]
+tags: ["TTRPG","AI","LRP","LARP","avrae","discord","bots"]
 image:
  feature:
  credit:
