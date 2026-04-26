@@ -33,6 +33,3 @@ jobs:
           ruby-version: "3.1.4"
           bundler-cache: true
           working-directory: .
-
-      - name: Install Jekyll and dependencies
-        run: bundle install
