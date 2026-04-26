@@ -1,0 +1,35 @@
+name: "Copilot Setup Steps"
+
+# Run automatically when the file changes, and allow manual triggers
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/copilot-setup-steps.yml
+  pull_request:
+    paths:
+      - .github/workflows/copilot-setup-steps.yml
+
+jobs:
+  # The job MUST be called `copilot-setup-steps` or it will not be picked up by Copilot.
+  copilot-setup-steps:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          # Pin to a specific patch version or add a .ruby-version file to the gh-pages
+          # branch to override this default. The gh-pages Gemfile uses `ruby RUBY_VERSION`
+          # (system default), so 3.1 is used here as a stable, GitHub-Pages-compatible choice.
+          ruby-version: "3.1.4"
+          bundler-cache: true
+          working-directory: .
