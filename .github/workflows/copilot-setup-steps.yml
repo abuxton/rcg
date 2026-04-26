@@ -27,7 +27,10 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.1"
+          # Pin to a specific patch version or add a .ruby-version file to the gh-pages
+          # branch to override this default. The gh-pages Gemfile uses `ruby RUBY_VERSION`
+          # (system default), so 3.1 is used here as a stable, GitHub-Pages-compatible choice.
+          ruby-version: "3.1.4"
           bundler-cache: true
           working-directory: .
 

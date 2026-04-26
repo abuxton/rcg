@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository powers **Red Circle Games** ([redcirclegames.co.uk](https://redcirclegames.co.uk)), a GitHub Pages blog written in Jekyll. The blog documents musings, development notes, and creative work related to **tabletop Role Playing Games (RPG)** and **Live Action Role Playing (L(A)RP / LRP / LARP)** game development.
+This repository powers **Red Circle Games** ([redcirclegames.co.uk](https://redcirclegames.co.uk)), a GitHub Pages blog written in Jekyll. The blog documents musings, development notes, and creative work related to **tabletop Role Playing Games (RPG)** and **Live Action Role Play (L(A)RP)** game development. The terms LRP and LARP are also used — see the terminology table below.
 
 The live site content lives on the **`gh-pages`** branch. The `main` branch holds repository-level configuration (CI, Copilot setup, docs).
 
