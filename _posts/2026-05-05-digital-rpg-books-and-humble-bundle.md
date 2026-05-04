@@ -56,7 +56,7 @@ Some of the publishers and games that have appeared in bundles over the years:
 
 **Free League Publishing** have done bundles covering their Alien RPG, Twilight: 2000, Blade Runner, and other titles in their catalogue. Free League are one of the more exciting publishers in the space right now, consistently producing games that are tightly designed and gorgeous to look at. Their books are also genuinely expensive in print, so a bundle is a meaningful saving.
 
-**Kobold Press**, who produce the Tome of Beasts and various supplements compatible with D&D 5e and their own new system Kobold's black flag Project, have also appeared. Useful if you are running 5e adjacent games and want monsters and encounter material that goes beyond the core bestiaries.
+**Kobold Press**, who produce the Tome of Beasts and various supplements compatible with D&D 5e and their own new system Kobold's Black Flag project, have also appeared. Useful if you are running 5e adjacent games and want monsters and encounter material that goes beyond the core bestiaries.
 
 There are others. Pelgrane Press ([Trail of Cthulhu](https://pelgranepress.com/trail-of-cthulhu/), [13th Age](https://pelgranepress.com/13th-age/)), Modiphius ([Star Trek Adventures](https://www.modiphius.net/collections/star-trek-adventures), Fallout, Conan), Cubicle 7 ([Warhammer Fantasy Roleplay](https://cubicle7games.com/warhammer-fantasy-roleplay/), Doctor Who), Evil Hat ([FATE Core](https://www.evilhat.com/fate-core/)) and Arc Dream Publishing ([Delta Green](https://www.delta-green.com/)) have all run bundles at various points. The variety is genuine.
 
