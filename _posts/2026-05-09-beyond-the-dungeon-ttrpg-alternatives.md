@@ -160,4 +160,4 @@ And honestly, now that Palladium have brought **TMNT and Other Strangeness** bac
 
 There is a lot of good gaming out there. Some of it has been there for forty years waiting patiently. Let us go find some of it.
 
-The circle, as always, remains red.
+The invite to the circle, as always, remains open. 
