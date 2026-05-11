@@ -25,7 +25,7 @@ url: "www.redcirclegames.co.uk" # the base hostname & protocol for your site, e.
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: creative-theme-jekyll
 gems:
   - jekyll-feed
 exclude:
