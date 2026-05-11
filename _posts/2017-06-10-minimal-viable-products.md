@@ -16,7 +16,7 @@ Minimal Viable Product (MVP), or what is the minimum you need to run or at least
 is it simply an idea, a concept, or is it a minimum set of rules, a minimal setting document, a minimal set of agreed policies people will abide by.
 
 The nature and idea of Red Circle Games are minimal products, Can we play out the scenario within  the bounds of a red rope light, what would that take.
-<img src='http://redcirclegames.co.uk/assets/images/red_led_rope_lights.jpg' style='float:left' />
+<img src="{{ '/assets/images/red_led_rope_lights.jpg' | relative_url }}" style='float:left' />
 
 But how far can you take that! Conventions or cons, play games in the rooms they have available, student halls, hotel dinning halls, school rooms. Small scale LARPs substitute Scout huts for viking long halls , hunting lodges, and even castles in the sky.
 
