@@ -21,6 +21,23 @@
         padding: 120px 0 80px;
       }
 
+      .subpage-header {
+        min-height: 50vh;
+      }
+
+      .subpage-header .header-content {
+        padding: 140px 15px 80px;
+      }
+
+      .subpage-header .header-content-inner {
+        max-width: 960px;
+        margin: 0 auto;
+      }
+
+      .subpage-header h1 {
+        margin-bottom: 0.5em;
+      }
+
       .post-card {
         background: #fff;
         border: 1px solid #e5e5e5;
@@ -45,7 +62,7 @@
     </style>
   </head>
 
-  <body id="page-top">
+  <body id="page-top" class="layout-{{ page.layout | default: 'default' }}">
     <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
       <div class="container-fluid">
         <div class="navbar-header">

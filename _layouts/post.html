@@ -1,13 +1,26 @@
 ---
 layout: default
 ---
+{% assign hero_num = page.url | size | modulo: 6 | plus: 1 %}
+<header class="subpage-header" style="background-image: linear-gradient(rgba(34,34,34,0.55), rgba(34,34,34,0.55)), url('{{ '/img/portfolio/' | append: hero_num | append: '.jpg' | relative_url }}');">
+  <div class="header-content">
+    <div class="header-content-inner">
+      <h1>{{ page.title | escape }}</h1>
+      <hr>
+      <p>
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+        {% if page.author %} · {{ page.author }}{% endif %}
+      </p>
+    </div>
+  </div>
+</header>
+
 <section class="page-section">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 col-lg-offset-1">
         <article class="content-body" itemscope itemtype="http://schema.org/BlogPosting">
           <header>
-            <h1 itemprop="headline">{{ page.title | escape }}</h1>
             <p class="muted-meta">
               <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
               {% if page.author %} · <span itemprop="author">{{ page.author }}</span>{% endif %}
