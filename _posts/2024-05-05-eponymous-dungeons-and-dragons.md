@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Eponymous Dungeons and Dragons"
-description: "A though on the seemingly now Eponymous nature of the name Dungeons and Dragons"
+title: "When Dungeons & Dragons Becomes the Generic Name"
+description: "A short thought on whether Dungeons & Dragons has become shorthand for all tabletop role-playing games."
 category:
 tags: ["dnd","dungeonsanddragons","TTRPG"]
 image:
@@ -11,4 +11,13 @@ image:
 comments: false
 share: true
 ---
-Do you play TTRPGs or do you Play D&D is D&D just fantasy or is Call of Cthulhu simply D&D with horror tropes, Starfinder sci-fi D&D. Has the hobby of table top role-playing become ubiquitous with Dungeons and Dragons despite Wizards of the Coast (WotC) attempts under Hasbro to profit from D&D, have they really just succeeded in making the name universal for aspects of table top role-playing games are we now all just playing a game of Dungeons and Dragons regardless of rules, setting, aspect or publisher. Has D&D or Dungeons and Dragons outgrown it’s creators and owners to become eponymous(<https://www.merriam-webster.com/dictionary/eponymous>) for all table top role-playing games.
+Do you play tabletop role-playing games, or do you say you play Dungeons & Dragons?
+
+People often use D&D as a catch-all label, even when they mean a completely different game. Call of Cthulhu gets described as "horror D&D." Starfinder becomes "sci-fi D&D." The name is so dominant that it can overshadow systems, settings, and publishers doing very different things.
+
+That raises an interesting question: in trying to make D&D bigger and more profitable, has Wizards of the Coast (under Hasbro) also made the brand linguistically universal?
+
+At this point, Dungeons & Dragons may be functioning as an eponymous term for the entire hobby, not just one game line.
+
+If someone says they "play D&D" but actually means any TTRPG, is that just convenient shorthand, or has the hobby quietly accepted one brand as its common language?
+
