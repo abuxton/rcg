@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fantasy and Science Fiction Short Stories from Campaign Notes"
-description: "How I turn campaign notes into short fiction, use self-publishing as a testing ground, and open new games with short story hooks."
+description: "How I turn campaign notes into short fiction, use self-publishing as an idea of a testing ground, and open new games with short story hooks."
 category: posts
 tags: ["rpg","ttrpg","l(a)rp","writing","fantasy","science-fiction","self-publishing","campaign-design","short-story-notes"]
 image:
@@ -41,7 +41,7 @@ That gives me better Session Zero material, better NPC voices, and stronger open
 I also like self-publishing short pieces because it creates a healthy deadline. A short story does
 not need to become a novel to be useful. It can stand on its own and still feed future game prep.
 
-For me, self-publishing short fiction (on blogs, zines, or small digital bundles) is:
+For me, self-publishing short fiction (this space, previously zines, or small digital journals) is or a been:
 
 - a way to test whether a setting voice lands with readers
 - a way to archive campaign lore in a form players can actually read
@@ -58,10 +58,10 @@ lore lecture.
 
 I usually frame it as one of these:
 
-1. A witness statement after a disaster
-2. A letter that never reached its destination
-3. A journal page from a missing explorer
-4. A transcript from a corporate or guild inquiry
+1. Observations of a possible NPC or Legendary character
+2. A snipit from a moment of adventure in the campaign world
+3. A journal page, an explorers diary or the comments of an academic
+4. A transcript from a corporate or guild event
 
 In fantasy games this might be a temple archivist describing a border fortress after the watch
 failed. In science fiction it might be a maintenance engineer logging impossible faults on a
@@ -76,7 +76,7 @@ domain fiction that clearly informs campaign tone.
   regions and remain useful tonal primers for investigative horror campaigns and *Call of Cthulhu*
   tables.
 - Sherlock Holmes stories are in the public domain and can be useful structure models for clue
-  pacing in mystery-led RPG sessions.
+  pacing in mystery-led RPG sessions. I've written whole games around the happenings of Sherlock Holmes cases.
 - *Shadowrun* books are full of in-world fiction snippets and "street-level" voice, which is
   useful when writing mission brief intros.
 - *Vampire: the Masquerade* sourcebooks often use in-character fiction to establish tone before
@@ -93,6 +93,8 @@ actionable game information when used at the right moment.
 
 A short story can move background lore into player focus before play starts, and then return to
 the background as lived context once the campaign is moving.
+
+<https://thealexandrian.net/wordpress/47582/roleplaying-games/ptolus-running-the-campaign-background-to-foreground-to-background>
 
 ## A New Label for Future Story Posts
 
