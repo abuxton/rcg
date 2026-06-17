@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Posts by Year: The Archive Up to 2024"
-description: "A structured index of all Red Circle Games posts from 2017 to 2024, organised by year with brief notes on each one."
+description: "A structured index of all Red Circle Games posts from 2017 to 2025, organised by year with brief notes on each one."
 category: posts
 tags: ["index","archive","retrospective","rcg","TTRPG","l(a)rp","AI","writing","game-design"]
 image:
