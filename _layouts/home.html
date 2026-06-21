@@ -62,3 +62,15 @@ layout: default
     <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
   </div>
 </section>
+
+<section class="bg-primary" id="tags">
+  <div class="container text-center">
+    <h2 class="section-heading">Browse Tags</h2>
+    <hr class="light">
+    {% assign sorted_tags = site.tags | sort %}
+    {% for tag_data in sorted_tags %}
+      {% assign tag_name = tag_data[0] %}
+      <a class="btn btn-default btn-sm" href="{{ '/tags/' | relative_url }}#tag-{{ tag_name | slugify }}">{{ tag_name }}</a>
+    {% endfor %}
+  </div>
+</section>

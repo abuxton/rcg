@@ -32,6 +32,18 @@ layout: default
             {{ content }}
           </div>
 
+          {% if page.tags and page.tags.size > 0 %}
+            <hr class="primary">
+            <section aria-label="Post tags">
+              <h2>Tags</h2>
+              <p>
+                {% for tag in page.tags %}
+                  <a class="btn btn-default btn-sm" href="{{ '/tags/' | relative_url }}#tag-{{ tag | slugify }}">{{ tag }}</a>
+                {% endfor %}
+              </p>
+            </section>
+          {% endif %}
+
           {% if site.disqus.shortname %}
             {% include disqus_comments.html %}
           {% endif %}
