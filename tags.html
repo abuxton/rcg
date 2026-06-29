@@ -11,7 +11,7 @@ permalink: /tags/
 <p>
   {% for tag_data in sorted_tags %}
     {% assign tag_name = tag_data[0] %}
-    <a class="btn btn-default btn-sm" href="#tag-{{ tag_name | slugify }}">{{ tag_name }}</a>
+    <a class="btn btn-default btn-sm" href="#tag-{{ tag_name | slugify }}">{{ tag_name | escape }}</a>
   {% endfor %}
 </p>
 
