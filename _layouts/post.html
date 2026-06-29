@@ -38,7 +38,7 @@ layout: default
               <h2>Tags</h2>
               <p>
                 {% for tag in page.tags %}
-                  <a class="btn btn-default btn-sm" href="{{ '/tags/' | relative_url }}#tag-{{ tag | slugify }}">{{ tag }}</a>
+                  <a class="btn btn-default btn-sm" href="{{ '/tags/' | relative_url }}#tag-{{ tag | slugify }}">{{ tag | escape }}</a>
                 {% endfor %}
               </p>
             </section>
