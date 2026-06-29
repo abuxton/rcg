@@ -1,0 +1,32 @@
+---
+layout: page
+title: "Tags"
+description: "Browse all Red Circle Games posts by tag."
+permalink: /tags/
+---
+{% assign sorted_tags = site.tags | sort %}
+
+<p>Browse all tags and jump to the posts for any one tag.</p>
+
+<p>
+  {% for tag_data in sorted_tags %}
+    {% assign tag_name = tag_data[0] %}
+    <a class="btn btn-default btn-sm" href="#tag-{{ tag_name | slugify }}">{{ tag_name | escape }}</a>
+  {% endfor %}
+</p>
+
+{% for tag_data in sorted_tags %}
+  {% assign tag_name = tag_data[0] %}
+  {% assign tag_posts = tag_data[1] %}
+  <section id="tag-{{ tag_name | slugify }}" aria-labelledby="heading-{{ tag_name | slugify }}">
+    <h2 id="heading-{{ tag_name | slugify }}">{{ tag_name | escape }}</h2>
+    <ul>
+      {% for post in tag_posts %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <span class="muted-meta">({{ post.date | date: "%b %-d, %Y" }})</span>
+        </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endfor %}
