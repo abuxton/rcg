@@ -122,7 +122,7 @@ Dragons* line, it was returning to a setting that had not been forgotten.
 
 The next post looks at that return — *Curse of Strahd*, *Van Richten's Guide to Ravenloft*,
 and the new June 2026 material that brings the setting into its latest chapter:
-[Ravenloft: Present and Future — Curse of Strahd, Van Richten's Guide, and the Horrors Within]({{ '/posts/2026/07/15/ravenloft-present-and-future-curse-of-strahd-van-richtens-guide-and-the-horrors-within.html' | relative_url }}).
+[Ravenloft: Present and Future — Curse of Strahd, Van Richten's Guide, and the Horrors Within]({{ '/posts/2026/07/22/ravenloft-present-and-future-curse-of-strahd-van-richtens-guide-and-the-horrors-within.html' | relative_url }}).
 
 ## Source material
 

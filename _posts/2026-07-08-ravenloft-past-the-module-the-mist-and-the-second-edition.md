@@ -105,7 +105,7 @@ Those questions matter because they are the ones the setting itself was built to
 In the next post, I will look at what happened to *Ravenloft* in the d20 era — the 3rd edition
 revival through Sword & Sorcery Studios, the unexpected collaboration with White Wolf, and how
 4th edition handled the setting's absence:
-[Ravenloft: The d20 Era — Sword and Sorcery Studios, White Wolf, and the 4th Edition Silence]({{ '/posts/2026/07/08/ravenloft-the-d20-era-sword-and-sorcery-studios-white-wolf.html' | relative_url }}).
+[Ravenloft: The d20 Era — Sword and Sorcery Studios, White Wolf, and the 4th Edition Silence]({{ '/posts/2026/07/15/ravenloft-the-d20-era-sword-and-sorcery-studios-white-wolf.html' | relative_url }}).
 
 ## Source material
 

@@ -17,7 +17,7 @@ This is the final post in a three-part series on *Ravenloft* across the editions
 covered the origins:
 [Ravenloft: Past — The Module, the Mist, and the Second Edition]({{ '/posts/2026/07/08/ravenloft-past-the-module-the-mist-and-the-second-edition.html' | relative_url }}).
 The second looked at the d20 era and White Wolf:
-[Ravenloft: The d20 Era — Sword and Sorcery Studios, White Wolf, and the 4th Edition Silence]({{ '/posts/2026/07/08/ravenloft-the-d20-era-sword-and-sorcery-studios-white-wolf.html' | relative_url }}).
+[Ravenloft: The d20 Era — Sword and Sorcery Studios, White Wolf, and the 4th Edition Silence]({{ '/posts/2026/07/15/ravenloft-the-d20-era-sword-and-sorcery-studios-white-wolf.html' | relative_url }}).
 
 I am writing this in July 2026, which feels like an appropriate moment. New *Ravenloft*
 material has arrived, and it gives the series a present-tense anchor. But before I get to
