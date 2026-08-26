@@ -28,8 +28,8 @@ answered every question.
    looks at the security-job premise: a one-hour event, a small plan and
    several motives arriving in sequence.
 2. [**The heist**]({{ '/2026/09/09/the-auction-as-a-heist/' | relative_url }})
-   turns the same boundaries into opportunities for planning, preparation and
-   consequences.
+   uses *Keys from the Golden Vault* as a high-level touchstone for planning,
+   preparation, non-violent options and consequences.
 3. [**The proxy and parlour L(A)RP**]({{ '/2026/09/16/the-auction-proxies-and-parlour-larp/' | relative_url }})
    makes social leverage the engine, using the contrast between a formal sale
    and private agendas as its inspiration for bids that mean more than price.

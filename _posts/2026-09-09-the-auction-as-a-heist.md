@@ -22,6 +22,27 @@ question at the table. A security adventure asks, "Which threat do we answer
 now?" A heist asks, "What do we learn, what do we risk, and which way out will
 still be open when this goes wrong?"
 
+## A heist anthology as a useful touchstone
+
+The development notes for this version cite
+[*Keys from the Golden Vault*](https://www.dndbeyond.com/sources/kftgv) as an
+inspiration. That is a useful prompt for the kind of game I want this to be:
+a focused job with a clear objective, enough information to begin planning and
+more than one viable answer once the plan meets the building.
+
+For the auction, I would take the idea as a design discipline rather than a
+template to copy. The crew knows which lot matters and has some intelligence,
+but not every answer. They can observe routines, exploit an old service route,
+work from above or make a brazen approach. Each option should reveal a
+different cost: time, attention, a favour owed or a more difficult escape.
+
+Just as importantly, the job needs a reason not to become a fight. The client
+wants the item recovered without a public bloodbath; the auction house has
+staff who are not the true target; and open violence may ruin the very
+relationships the item is meant to repair. That makes stealth, deception,
+negotiation and a quick exit equal to combat, rather than lesser versions of
+it.
+
 ## Give the job a human reason
 
 In my notes, the crew is after one particular lot. It has a disputed history,
@@ -77,3 +98,7 @@ illustrated by **Nimrod Cortés** and published by
 publisher's property. I have not reproduced its text, artwork or map; this is
 my own design discussion, prompted by the one-page format celebrated by the
 **[One Page Dungeon Contest](https://www.dungeoncontest.com/)**.
+
+The development notes cite *Keys from the Golden Vault* as an inspiration.
+This post offers original commentary on applying broad heist-design ideas to
+the auction rather than reproducing material from that publication.
