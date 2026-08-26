@@ -70,7 +70,7 @@ planetary war and deliver a few disconnected skirmishes.
 ## Airsoft or laser tag, with atmosphere doing the heavy lifting
 
 The science-fiction setting invites either airsoft or laser-tag combat. Which
-one I chose would depend on the venue, the people involved and the safety
+one I choose would depend on the venue, the people involved and the safety
 framework, rather than on a claim that one is more authentic. Airsoft has the
 useful physicality of cover, magazines and uncertainty. Laser tag can make
 night play and obvious futuristic equipment much easier to run.
