@@ -40,6 +40,23 @@ The best outcome is not necessarily taking the prize home. A representative
 who loses an object but wins an ally, uncovers a patron's identity or prevents
 the wrong buyer from succeeding has still played a good game.
 
+## A cinematic starting point
+
+One inspiration for the atmosphere is the auction sequence in *Hellboy II: The
+Golden Army*. It begins with the reassuring grammar of a formal sale: invited
+guests, an auctioneer, attendants moving lots and a room organised around
+wealth and ceremony. The tension comes from the fact that the sale is not the
+whole story. A claimant with a competing idea of ownership, and a plan already
+underway beyond the sales room, turns a civilised event into a crisis.
+
+I am not trying to import that scene's plot or its spectacular violence into
+the game. What I want to borrow is its contrast. The public auction tells
+everyone where to look, while private instructions, access and old claims tell
+the players where the real game is. For *Dialling It In*, that suggests each
+proxy needs more than a maximum bid: they need a reason to watch a particular
+lot, guest or exit, and a decision to make when the formal proceedings fail to
+contain what is happening.
+
 ## Why it suits a small parlour L(A)RP
 
 This is also the version that most naturally becomes a parlour Live Action
@@ -77,3 +94,7 @@ illustrated by **Nimrod Cortés** and published by
 publisher's property; no original text, artwork or map is reproduced here.
 The one-page approach is also acknowledged with thanks to the
 **[One Page Dungeon Contest](https://www.dungeoncontest.com/)**.
+
+The auction-scene discussion also refers to *Hellboy II: The Golden Army*
+(2008), directed by Guillermo del Toro. It is commentary on the scene's
+structure and atmosphere, not a reproduction of its screenplay.

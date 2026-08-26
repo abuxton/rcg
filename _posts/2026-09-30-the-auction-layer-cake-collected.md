@@ -31,8 +31,8 @@ answered every question.
    turns the same boundaries into opportunities for planning, preparation and
    consequences.
 3. [**The proxy and parlour L(A)RP**]({{ '/2026/09/16/the-auction-proxies-and-parlour-larp/' | relative_url }})
-   makes social leverage the engine, with private agendas and bids that mean
-   more than their price.
+   makes social leverage the engine, using the contrast between a formal sale
+   and private agendas as its inspiration for bids that mean more than price.
 4. [**The patrons**]({{ '/2026/09/23/the-auction-for-established-adventurers/' | relative_url }})
    asks what changes when the player characters have status, resources and
    enough power that social consequences matter more than a lock.
