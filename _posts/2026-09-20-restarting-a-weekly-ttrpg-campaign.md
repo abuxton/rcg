@@ -161,15 +161,12 @@ is almost an argument for a finite event by itself: tense science-fiction
 horror is more satisfying when everyone has signed up for the same pressure
 and length of story.
 
-I have opened follow-up review issues for
-[*Spire*](https://github.com/abuxton/rcg/issues/68),
-[*Heart*](https://github.com/abuxton/rcg/issues/66),
-[*Vaesen*](https://github.com/abuxton/rcg/issues/65),
-[*Shadowrun Anarchy*](https://github.com/abuxton/rcg/issues/67), and
-[*ALIEN RPG*](https://github.com/abuxton/rcg/issues/69). The plan is to play
-them as one-shots, record what the table experiences rather than merely what
+The plan is to play them as one-shots, record what the table experiences rather than merely what
 the books promise, and decide which deserve a fuller review.
 
 For now, the next step is smaller than choosing the perfect game: put a
 Session Zero in the calendar, present two or three honest pitches, and see
 which one makes four to six people want to turn up next week.
+
+>  there are monsters to hunt, dungeons to crawl, treasues to recover and mysteries to solve...
+
