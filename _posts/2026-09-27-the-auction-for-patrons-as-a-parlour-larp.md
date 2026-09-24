@@ -13,7 +13,7 @@ share: true
 ---
 
 In [*The Auction for patrons: when the party has its own
-money*]({{ '/2026/09/23/the-auction-for-established-adventurers/' | relative_url }}),
+money*]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}),
 I suggested that high-level characters are interesting at an auction because
 the room already knows who they are. A lock is rarely the problem. Being seen
 opening it is.
@@ -27,10 +27,10 @@ collectors with enough history that every public choice has a cost.
 ## What this version inherits
 
 The series began with [**a review of the one-page
-adventure**]({{ '/2026/09/02/the-dwarven-auction-one-page-review/' | relative_url }}),
+adventure**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }}),
 then looked at [**the auction as a
-heist**]({{ '/2026/09/09/the-auction-as-a-heist/' | relative_url }}) and
-[**the auction by proxy**]({{ '/2026/09/16/the-auction-proxies-and-parlour-larp/' | relative_url }}).
+heist**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}) and
+[**the auction by proxy**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}).
 All three are useful preparation for an organiser, even though this event has
 no Game Master behind a screen.
 
@@ -129,7 +129,7 @@ separate the character who drove a hard bargain from the player who enjoyed
 the game.
 
 This is the same work I would do in a
-[Session Zero]({{ '/2023/12/03/session-zero/' | relative_url }}): establish
+[Session Zero]({{ '/posts/2023/12/03/session-zero.html' | relative_url }}): establish
 the shared boundaries that make sharper fictional choices possible. The
 auction only needs a dressed room, clear props and good briefs. Its real
 scenery is the trust that lets players risk status without risking one another.

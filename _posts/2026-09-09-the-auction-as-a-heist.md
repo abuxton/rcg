@@ -95,9 +95,9 @@ different game entirely.
 ## Series update
 
 This is the second post in the auction series. It follows
-[**The Dwarven Auction: one page, one very busy hour**]({{ '/2026/09/02/the-dwarven-auction-one-page-review/' | relative_url }})
+[**The Dwarven Auction: one page, one very busy hour**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }})
 and leads to
-[**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/2026/09/16/the-auction-proxies-and-parlour-larp/' | relative_url }}).
+[**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}).
 
 This is a new, unofficial response to *The Dwarven Auction*, written and
 illustrated by **Nimrod Cortés** and published by
