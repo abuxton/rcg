@@ -88,6 +88,13 @@ Next week I will look at the same building for characters who no longer need a
 patron's credit note: powerful adventurers invited to the sale in their own
 right.
 
+## Series update
+
+This is the third post in the auction series. It follows
+[**The Auction as a heist: turn the keys around**]({{ '/2026/09/09/the-auction-as-a-heist/' | relative_url }})
+and leads to
+[**The Auction for patrons: when the party has its own money**]({{ '/2026/09/23/the-auction-for-established-adventurers/' | relative_url }}).
+
 This is an unofficial design response to *The Dwarven Auction*, written and
 illustrated by **Nimrod Cortés** and published by
 **[OR15 Publishing](https://www.or15.com/)**. The original remains its
