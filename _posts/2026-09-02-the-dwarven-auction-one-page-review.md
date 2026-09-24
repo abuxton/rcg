@@ -62,6 +62,11 @@ look at the same auction house from the other side of the locks: first as a
 heist, then as a web of proxies and finally as a gathering for established
 adventurers.
 
+## Series update
+
+This is the first post in the auction series. Continue with
+[**The Auction as a heist: turn the keys around**]({{ '/2026/09/09/the-auction-as-a-heist/' | relative_url }}).
+
 ## Credit where it belongs
 
 This is a review and response to *The Dwarven Auction*, a one-page adventure

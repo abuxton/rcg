@@ -92,6 +92,13 @@ That is why the small original premise expands so easily. The place remains an
 auction house, but changing who has authority and who has a plan creates a
 different game entirely.
 
+## Series update
+
+This is the second post in the auction series. It follows
+[**The Dwarven Auction: one page, one very busy hour**]({{ '/2026/09/02/the-dwarven-auction-one-page-review/' | relative_url }})
+and leads to
+[**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/2026/09/16/the-auction-proxies-and-parlour-larp/' | relative_url }}).
+
 This is a new, unofficial response to *The Dwarven Auction*, written and
 illustrated by **Nimrod Cortés** and published by
 **[OR15 Publishing](https://www.or15.com/)**. The original remains its

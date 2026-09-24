@@ -61,6 +61,13 @@ venue and organisers are equipped for it, and make sure every player has
 something they can actively pursue. A parlour game works when its guests have
 reasons to talk to one another, not when the room has enough fake treasure.
 
+## Series update
+
+The series now has a practical follow-up:
+[**The Auction for patrons as a parlour L(A)RP**]({{ '/2026/10/07/the-auction-for-patrons-as-a-parlour-larp/' | relative_url }}).
+It develops the patron-focused fourth layer into a small event where status,
+obligation and public reputation create the pressure.
+
 ## A respectful starting point
 
 Everything in this series began with *The Dwarven Auction*, a one-page
