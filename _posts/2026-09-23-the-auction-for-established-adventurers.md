@@ -78,9 +78,9 @@ patrons, and the design principles that connect them.
 ## Series update
 
 This is the fourth post in the auction series. It follows
-[**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/2026/09/16/the-auction-proxies-and-parlour-larp/' | relative_url }}).
+[**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}).
 The later follow-up,
-[**The Auction for patrons as a parlour L(A)RP**]({{ '/2026/10/07/the-auction-for-patrons-as-a-parlour-larp/' | relative_url }}),
+[**The Auction for patrons as a parlour L(A)RP**]({{ '/posts/2026/09/27/the-auction-for-patrons-as-a-parlour-larp.html' | relative_url }}),
 turns this version's social stakes into an event for players to inhabit.
 
 This post is an unofficial design response to *The Dwarven Auction*, written

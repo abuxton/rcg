@@ -68,7 +68,7 @@ I would keep a first event small and make the boundaries explicit. Guests need
 to know whether the game permits physical contact, theft of props, private
 conversation, alcohol and any form of conflict. My default would be no physical
 combat, no real valuables in play and a simple way to pause or step out of a
-scene. A [Session Zero]({{ '/2023/12/03/session-zero/' | relative_url }})-style
+scene. A [Session Zero]({{ '/posts/2023/12/03/session-zero.html' | relative_url }})-style
 briefing is just as useful for a one-evening L(A)RP as it is for a campaign.
 
 Costume and food are atmosphere, not entry requirements. A table of mock lots,
@@ -91,9 +91,9 @@ right.
 ## Series update
 
 This is the third post in the auction series. It follows
-[**The Auction as a heist: turn the keys around**]({{ '/2026/09/09/the-auction-as-a-heist/' | relative_url }})
+[**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }})
 and leads to
-[**The Auction for patrons: when the party has its own money**]({{ '/2026/09/23/the-auction-for-established-adventurers/' | relative_url }}).
+[**The Auction for patrons: when the party has its own money**]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}).
 
 This is an unofficial design response to *The Dwarven Auction*, written and
 illustrated by **Nimrod Cortés** and published by

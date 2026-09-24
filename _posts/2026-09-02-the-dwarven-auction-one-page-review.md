@@ -65,7 +65,7 @@ adventurers.
 ## Series update
 
 This is the first post in the auction series. Continue with
-[**The Auction as a heist: turn the keys around**]({{ '/2026/09/09/the-auction-as-a-heist/' | relative_url }}).
+[**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}).
 
 ## Credit where it belongs
 

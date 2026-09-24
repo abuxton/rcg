@@ -24,16 +24,16 @@ answered every question.
 
 ## The four layers
 
-1. [**The original review**]({{ '/2026/09/02/the-dwarven-auction-one-page-review/' | relative_url }})
+1. [**The original review**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }})
    looks at the security-job premise: a one-hour event, a small plan and
    several motives arriving in sequence.
-2. [**The heist**]({{ '/2026/09/09/the-auction-as-a-heist/' | relative_url }})
+2. [**The heist**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }})
    uses *Keys from the Golden Vault* as a high-level touchstone for planning,
    preparation, non-violent options and consequences.
-3. [**The proxy and parlour L(A)RP**]({{ '/2026/09/16/the-auction-proxies-and-parlour-larp/' | relative_url }})
+3. [**The proxy and parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }})
    makes social leverage the engine, using the contrast between a formal sale
    and private agendas as its inspiration for bids that mean more than price.
-4. [**The patrons**]({{ '/2026/09/23/the-auction-for-established-adventurers/' | relative_url }})
+4. [**The patrons**]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }})
    asks what changes when the player characters have status, resources and
    enough power that social consequences matter more than a lock.
 
@@ -64,7 +64,7 @@ reasons to talk to one another, not when the room has enough fake treasure.
 ## Series update
 
 The series now has a practical follow-up:
-[**The Auction for patrons as a parlour L(A)RP**]({{ '/2026/10/07/the-auction-for-patrons-as-a-parlour-larp/' | relative_url }}).
+[**The Auction for patrons as a parlour L(A)RP**]({{ '/posts/2026/09/27/the-auction-for-patrons-as-a-parlour-larp.html' | relative_url }}).
 It develops the patron-focused fourth layer into a small event where status,
 obligation and public reputation create the pressure.
 
