@@ -23,6 +23,25 @@ large amount of plot written in advance?
 
 For this session, I think the answer was yes.
 
+*Vaesen* is a nineteenth-century folklore-horror game in which the
+investigators have the Sight: they can recognise the creatures and old powers
+that most people cannot see. As members of the Society, they are drawn into
+mysteries where industrial change, old obligations, and human interference
+disturb an already uneasy relationship between people and vaesen.
+
+That premise gives a GM a useful starting point. A mystery can begin with an
+impossible event, then turn on what the group can learn about the creature and
+how it might be placated, outwitted, or stopped. The
+[Vaesen Starter Set](https://freeleaguepublishing.com/shop/vaesen-2/starter-set/)
+is a good introduction to that approach: it includes condensed rules, an
+introductory Society mystery, player characters, maps, handouts, reference
+cards, and custom dice.
+
+[![Contents of the Vaesen Starter Set: books, maps, character sheets, rules cards, handouts, and dice](https://freeleaguepublishing.com/wp-content/uploads/2025/10/VAE_Starter_Set_contents_dark.jpg)](https://freeleaguepublishing.com/shop/vaesen-2/starter-set/)
+
+*Vaesen* Starter Set contents. Image © 2025 Fria Ligan AB and Johan Egerkrans;
+used with permission.
+
 [![A headless Dullahan riding at night, illustrated by Johan Egerkrans](https://www.johanegerkrans.com/cdn/shop/files/dullahanA3copy.jpg?v=1698238949&width=990)](https://www.johanegerkrans.com/products/dullahan-signed-art-print)
 
 *Dullahan* by Johan Egerkrans. Used with permission.
