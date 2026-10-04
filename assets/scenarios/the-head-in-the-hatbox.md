@@ -64,7 +64,7 @@ The **Black Star** may be the name of an organisation, an individual, or simply 
 
 This mystery begins at the investigators' base of operations. A box arrives without warning, bearing a black star. The first person to open it is drenched in blood. Inside is the Dullahan's skull.
 
-The scenario follows the investigators as they identify the head, uncover its secret, gather gold, and decide what to do before the Dullahan arrives. The skull is both evidence and bait: it draws the creature toward them, but it is also the creature's weakness. The countdown begins with the delivery, and the investigators must research and prepare while the danger grows.
+The scenario follows the investigators as they identify the head, uncover its secret, gather gold, and decide what to do before the Dullahan arrives. The skull is evidence and bait: it draws the creature toward them. It is also the Dullahan's weakness, but that weakness has already been exploited by whoever captured and sent the head. The countdown begins with the delivery, and the investigators must research and prepare while the danger grows.
 
 </div>
 
@@ -84,7 +84,7 @@ The Dullahan regards its head as something of value and will pursue it. The send
 
 **Resources:** Gold can repel the creature and buy time, but the investigators must find and gather it before night. Gold is a temporary defence, not a guaranteed victory.
 
-**The creature:** The Dullahan is relentless and dangerous. The investigators can evade or redirect it, return the head, seize it to control the creature, or destroy it.
+**The creature:** The Dullahan is relentless and dangerous. The investigators can use gold to delay it, evade or redirect it, or return the head. They cannot seize the head from the creature: it has already been taken.
 
 **The hidden antagonist:** The delivery confirms that the Society was deliberately targeted. It does not have to reveal the Black Star's full identity or plan.
 
@@ -144,24 +144,33 @@ Provide the essential facts through research, contacts, or Society records. A fa
 - **What the skull is:** Folklore and Society knowledge identify it as a Dullahan's head.
 - **What is coming:** The Dullahan will seek to reclaim it. The danger begins after sunset and may culminate around midnight.
 - **How to hold it back:** Gold repels the Dullahan. A small gold object can halt it in its path, creating an opportunity rather than a lasting defence.
-- **The secret:** The Dullahan's head is its weakness. A mortal who seizes it can control the creature; destroying the head destroys the Dullahan.
+- **The secret:** The Dullahan's head is its weakness. If a mortal seizes it from the creature, they can control the Dullahan; if the head is destroyed, the creature is destroyed. These are facts about the attack's origin, not options available to the investigators: the skull has already been seized and separated from the Dullahan before it reaches them.
 - **Who sent it:** The black-star mark suggests the Society was deliberately targeted. It does not, by itself, reveal the sender's full identity or plan.
 
 The investigators may learn these facts from the Society library, a folklore specialist, old reports, or an NPC's knowledge. Different sources can confirm or deepen the same essential clues.
 
 </div>
 
+<div class="box">
+
+## The Revelation: The Weakness Has Already Been Used
+
+The investigators may initially see the skull as a weapon they can use against the Dullahan. Make the crucial distinction clear when they learn how the creature's head works: **the head has already been seized.** The Black Star, or another unseen antagonist, has used that weakness before the scenario begins. The investigators are the recipients of the already-lost skull, not the people who take it from the Dullahan.
+
+Possessing this detached skull does not let the investigators control the creature, and they cannot repeat the act of seizing it or destroy the Dullahan through this already-spent weakness. The realisation should change their understanding of the delivery: someone else has already demonstrated power over the Dullahan and is using the Society as the next part of the attack.
+
+</div>
+
 ## Defeating the Dullahan
 
-Defeating the creature need not mean fighting it. Gold can halt or deter it long enough to change the situation. Returning the head may end the pursuit, but releases the Dullahan. Seizing the head offers control at close quarters. Destroying it ends the creature, but the investigators must face the danger of carrying out that decision while it is coming for them.
+The investigators cannot defeat the Dullahan by taking or using its head: that opportunity has already passed. Gold can halt or deter it long enough to change the situation. Returning the head may end the pursuit, but releases the Dullahan. The investigators can evade it, redirect it, or protect people from its attack. This confrontation is about surviving the skull's return, not repeating the antagonist's feat.
 
-Let the investigators decide what victory means: survival, containment, the creature's destruction, or keeping the skull from the Black Star.
+Victory means survival, getting the skull out of the Society's hands, or uncovering enough about the Black Star to pursue the larger threat.
 
 ## Aftermath
 
-- **The head is destroyed:** The Dullahan is destroyed. The Society survives, but the Black Star's reason for targeting it remains unanswered.
 - **The head is returned:** The Dullahan reclaims it and departs. The immediate threat ends; the creature remains in the world.
-- **The head is seized and used to control the Dullahan:** The investigators gain a dangerous advantage. What control costs, how long it lasts, and what happens to the creature are decisions for the GM and table.
+- **The head is kept or hidden:** The Dullahan remains a threat and may continue to pursue it. The investigators have bought time, not safety.
 - **The investigators fail or flee:** The Dullahan may reach the skull and leave, or attack those in its way. The head, staff, or headquarters may be lost or damaged. The Black Star's distraction has succeeded, at least temporarily, leaving its wider purpose as the investigators' next lead.
 
 <footer class="wide small">
