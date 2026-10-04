@@ -75,10 +75,10 @@ became the story.
 
 ## A clock until sunset
 
-I borrowed a progress-clock idea from *Blades in the Dark* to make the
-investigation's deadline visible. The skull arrived in mid-afternoon, giving the
-players a safe period to research. Sunset was the point at which the Dullahan
-could begin to close in.
+I borrowed a [progress-clock idea from *Blades in the Dark*](https://bladesinthedark.com/progress-clocks)
+to make the investigation's deadline visible. The skull arrived in
+mid-afternoon, giving the players a safe period to research. Sunset was the
+point at which the Dullahan could begin to close in.
 
 The clock did two jobs. For me as GM, it was a simple measure of when it was
 time to send the creature. For the players, it made the consequences of
