@@ -61,6 +61,12 @@
       "skillPath": "skills/decision-maker/SKILL.md",
       "computedHash": "16e562019cec6613ceac4b92581da5acc4292dd8d453257462d43f09433d0c18"
     },
+    "doc-coauthoring": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "skillPath": "skills/doc-coauthoring/SKILL.md",
+      "computedHash": "b964e4c3ffe13f66f76dd7919073e60c7aec622cd8a8363bb36323188100cf8e"
+    },
     "documentation-that-slaps": {
       "source": "omer-metin/skills-for-antigravity",
       "sourceType": "github",
@@ -108,6 +114,18 @@
       "sourceType": "github",
       "skillPath": "skills/markdown-to-html/SKILL.md",
       "computedHash": "fc87b1a02397a9dbcfdff39cdcf627659d433608bafbd347c60049dd2766a227"
+    },
+    "pdf": {
+      "source": "openai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/.curated/pdf/SKILL.md",
+      "computedHash": "ae0a8fde8447e83a08edd0baf5373cd52febce32494e47e17d5d695a441a1884"
+    },
+    "playwright": {
+      "source": "openai/skills",
+      "sourceType": "github",
+      "skillPath": "skills/.curated/playwright/SKILL.md",
+      "computedHash": "595a334de3bd5335f442a33d1bdefb01207c88c99fe43e3bd99b0d5435f230de"
     },
     "tabletop-rpg-design": {
       "source": "omer-metin/skills-for-antigravity",
