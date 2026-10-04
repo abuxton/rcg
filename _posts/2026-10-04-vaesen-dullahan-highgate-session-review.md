@@ -39,12 +39,7 @@ cards, and custom dice.
 
 [![Contents of the Vaesen Starter Set: books, maps, character sheets, rules cards, handouts, and dice](https://freeleaguepublishing.com/wp-content/uploads/2025/10/VAE_Starter_Set_contents_dark.jpg)](https://freeleaguepublishing.com/shop/vaesen-2/starter-set/)
 
-*Vaesen* Starter Set contents. Image © 2025 Fria Ligan AB and Johan Egerkrans;
-used with permission.
-
-[![A headless Dullahan riding at night, illustrated by Johan Egerkrans](https://www.johanegerkrans.com/cdn/shop/files/dullahanA3copy.jpg?v=1698238949&width=990)](https://www.johanegerkrans.com/products/dullahan-signed-art-print)
-
-*Dullahan* by Johan Egerkrans. Used with permission.
+*Vaesen* Starter Set contents. Image © 2025 Fria Ligan AB and Johan Egerkrans.
 
 ## A hatbox for the Society
 
@@ -146,6 +141,10 @@ For this game, the Dullahan's own folklore was more useful than the familiar
 American ghost-story image. The blood, the missing head, and the sense of an
 inevitable nocturnal visitor gave the mystery its tone before I needed to add
 much else.
+
+[![A headless Dullahan riding at night, illustrated by Johan Egerkrans](https://www.johanegerkrans.com/cdn/shop/files/dullahanA3copy.jpg?v=1698238949&width=990)](https://www.johanegerkrans.com/products/dullahan-signed-art-print)
+
+*Dullahan* by Johan Egerkrans.
 
 ## What I learnt from the session
 
