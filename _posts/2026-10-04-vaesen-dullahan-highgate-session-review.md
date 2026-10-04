@@ -23,6 +23,10 @@ large amount of plot written in advance?
 
 For this session, I think the answer was yes.
 
+[![A headless Dullahan riding at night, illustrated by Johan Egerkrans](https://www.johanegerkrans.com/cdn/shop/files/dullahanA3copy.jpg?v=1698238949&width=990)](https://www.johanegerkrans.com/products/dullahan-signed-art-print)
+
+*Dullahan* by Johan Egerkrans. Used with permission.
+
 ## A hatbox for the Society
 
 The mystery began with a delivery to the Society house. There was a plain
