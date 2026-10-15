@@ -234,3 +234,7 @@ fabric.properties
 /tmp
 /**/skills
 _site
+
+# Published downloadable skills linked from blog posts
+!/skills/
+!/skills/**
