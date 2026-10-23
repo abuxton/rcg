@@ -31,6 +31,10 @@ looking at the whole route from an idea, through the editor, to a share link
 or printed page. I also had a useful starting point: an existing creature
 brew, [*Enchanted Bansai*](https://homebrewery.naturalcrit.com/share/1ocnnxAkPnODudM44RNFB3SlEwx1QhiTLTHXIF1p4yCgc).
 
+[![The rendered Enchanted Bansai creature page, showing its credited illustration, two-column layout and Dragon Leaf Bansai stat block]({{ '/assets/images/homebrewery-enchanted-bansai.png' | relative_url }})](https://homebrewery.naturalcrit.com/share/1ocnnxAkPnODudM44RNFB3SlEwx1QhiTLTHXIF1p4yCgc)
+
+*The rendered* Enchanted Bansai *brew. Illustration: [Dragonleaf Tree by Dan Robert](https://www.deviantart.com/danrobart/art/Dragonleaf-Tree-631191538), as credited in the supplied brew.*
+
 ## The source is part of the tool
 
 Homebrewery is not a word processor with a fantasy skin. An author writes
@@ -56,6 +60,21 @@ That is a reasonable bargain for me. I would rather learn a compact set of
 layout habits than learn a full desktop-publishing application for a
 one-page handout. I would not, however, start a session an hour before
 players arrive expecting that any pasted text will instantly look good.
+
+Here is a shortened excerpt from the supplied *Enchanted Bansai* source. The
+image URL is omitted, but the Markdown and HTML are otherwise the same shape
+as the author sees:
+
+```markdown
+## Dragon Leaf Bansai
+*small Plant, unaligned*
+___
+- **Armor Class** 10
+- **Hit Points** 7(1d8 + 2)
+
+<img src="..."
+  style="width:170px;float:center" />
+```
 
 ## A bonsai that shows both sides
 
