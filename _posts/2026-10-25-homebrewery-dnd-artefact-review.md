@@ -156,6 +156,42 @@ plain source and the approved PDF somewhere I control. The service's FAQ
 describes short-lived browser-held history, which is helpful when recovering
 from an accidental edit but not a substitute for my own archive.
 
+## Choosing the tool for the job
+
+Homebrewery is not the only route to a good-looking game document. GM Binder
+offers a similarly browser-first, sourcebook-like approach, so I would judge
+the two by trying the same small handout in each rather than assuming either
+one is automatically better. The useful question is whether its editor,
+export and sharing habits make me want to revise the document.
+
+For a booklet with a more individual visual identity, I would also consider
+a desktop-publishing tool. Scribus is the free option I would investigate;
+Affinity Publisher and Adobe InDesign are the commercial alternatives I
+would consider if the work needed their fuller layout controls. That is a
+different bargain: more control over type, images and print preparation, but
+more to learn before I can finish a one-page prop.
+
+My rule of thumb is deliberately modest. I would choose Homebrewery when a
+small RPG handout benefits from its familiar conventions, and a
+desktop-publishing tool when the layout itself is part of the design problem.
+Neither choice supplies artwork or a licence. Every illustration, font,
+setting reference and rules extract still needs a clear right to use it.
+
+## PDF is not the last check
+
+An exported PDF is a proof to inspect, not proof that the document is
+accessible. Homebrewery's editor accessibility work does not by itself mean
+that a browser-printed PDF has tags or meets PDF/UA. I would review the
+reading order, heading structure, image descriptions, contrast and whether
+important rules survived the export, then run the finished file through the
+[PAC PDF Accessibility Checker](https://pac.pdf-accessibility.org/en).
+
+That preflight belongs alongside the copyright check described in my
+[DriveThruRPG publishing notes]({{ '/posts/2026/11/02/getting-started-with-drivethrurpg.html' | relative_url }}).
+Presentation, accessibility and permission are separate jobs; a handsome
+PDF can still fail any of them. I plan to put this workflow to a more
+practical test in a future player-primer tutorial.
+
 ## Familiar is not official
 
 The attraction of this style is obvious, but it creates a responsibility.
@@ -190,11 +226,16 @@ scraps of an ongoing game feel worth keeping.
 
 ## Sources and further reading
 
-- [The Homebrewery editor and V3 guide](https://homebrewery.naturalcrit.com/)
-- [The Homebrewery FAQ](https://homebrewery.naturalcrit.com/faq)
-- [Homebrewery Vault: dragon search](https://homebrewery.naturalcrit.com/vault?title=dragon&author=&count=20&v3=true&legacy=true&page=1&sort=title&dir=asc)
-- [*Enchanted Bansai* public brew](https://homebrewery.naturalcrit.com/share/1ocnnxAkPnODudM44RNFB3SlEwx1QhiTLTHXIF1p4yCgc)
-- [D&D System Reference Document](https://www.dndbeyond.com/srd)
+- [The Homebrewery editor and V3 guide](https://homebrewery.naturalcrit.com/) (accessed 8 November 2026)
+- [The Homebrewery FAQ](https://homebrewery.naturalcrit.com/faq) (accessed 8 November 2026)
+- [Homebrewery Vault: dragon search](https://homebrewery.naturalcrit.com/vault?title=dragon&author=&count=20&v3=true&legacy=true&page=1&sort=title&dir=asc) (accessed 23 October 2026)
+- [*Enchanted Bansai* public brew](https://homebrewery.naturalcrit.com/share/1ocnnxAkPnODudM44RNFB3SlEwx1QhiTLTHXIF1p4yCgc) (accessed 23 October 2026)
+- [GM Binder](https://www.gmbinder.com/) (accessed 8 November 2026)
+- [Scribus](https://www.scribus.net/) (accessed 8 November 2026)
+- [Affinity Publisher](https://affinity.serif.com/publisher/) (accessed 8 November 2026)
+- [Adobe InDesign](https://www.adobe.com/products/indesign.html) (accessed 8 November 2026)
+- [PAC PDF Accessibility Checker](https://pac.pdf-accessibility.org/en) (accessed 8 November 2026)
+- [D&D System Reference Document](https://www.dndbeyond.com/srd) (accessed 8 November 2026)
 
 ---
 
