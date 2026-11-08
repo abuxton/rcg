@@ -23,16 +23,14 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4.1.1
+        uses: actions/checkout@v5
         with:
           ref: gh-pages
 
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          # Pin to a specific patch version or add a .ruby-version file to the gh-pages
-          # branch to override this default. The gh-pages Gemfile uses `ruby RUBY_VERSION`
-          # (system default), so 3.1 is used here as a stable, GitHub-Pages-compatible choice.
-          ruby-version: "3.1.4"
+          # Keep this in sync with the Ruby version locked by the gh-pages Gemfile.
+          ruby-version: "3.2.3"
           bundler-cache: true
           working-directory: .
