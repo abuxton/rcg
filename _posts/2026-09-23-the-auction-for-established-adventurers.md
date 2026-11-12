@@ -3,7 +3,7 @@ layout: post
 title: "The Auction for patrons: when the party has its own money"
 description: "A mid- to high-level RPG version of the auction, built around status, competing interests and consequences."
 category: posts
-tags: [rpg, high-level-play, adventure-design, game-design]
+tags: [rpg, high-level-play, adventure-design, game-design, "the-auction", DnD]
 image:
   feature:
   credit:
@@ -75,13 +75,16 @@ let them.
 Next week I will collect the whole series: guards, thieves, proxies and
 patrons, and the design principles that connect them.
 
-## Series update
+## Series overview
 
-This is the fourth post in the auction series. It follows
-[**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}).
-The later follow-up,
-[**The Auction for patrons as a parlour L(A)RP**]({{ '/posts/2026/09/27/the-auction-for-patrons-as-a-parlour-larp.html' | relative_url }}),
-turns this version's social stakes into an event for players to inhabit.
+This is the fourth post in the *Auction* series. It builds on:
+
+1. [**The Dwarven Auction: one page, one very busy hour**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }}) — the original security scenario and one-page review.
+2. [**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}) — the heist variation and planning approach.
+3. [**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}) — proxy play and social leverage mechanics.
+
+Browse all posts in this series via the tags:
+[**#the-auction**]({{ '/tags/#the-auction' | relative_url }}) or [**#DnD**]({{ '/tags/#DnD' | relative_url }})
 
 This post is an unofficial design response to *The Dwarven Auction*, written
 and illustrated by **Nimrod Cortés** and published by

@@ -3,7 +3,7 @@ layout: post
 title: "The Dwarven Auction: one page, one very busy hour"
 description: "A review of OR15 Publishing's compact auction-house adventure and the questions it leaves usefully unanswered."
 category: posts
-tags: [rpg, one-page-adventure, adventure-design, review]
+tags: [rpg, one-page-adventure, adventure-design, review, "the-auction", DnD]
 image:
   feature:
   credit:
@@ -62,10 +62,13 @@ look at the same auction house from the other side of the locks: first as a
 heist, then as a web of proxies and finally as a gathering for established
 adventurers.
 
-## Series update
+## Series note
 
-This is the first post in the auction series. Continue with
-[**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}).
+This is the first post in the *Auction* series. Later posts explore the same
+one-page adventure from different viewpoints and build on the ideas introduced here.
+
+Browse all posts in this series via the tags:
+[**#the-auction**]({{ '/tags/#the-auction' | relative_url }}) or [**#DnD**]({{ '/tags/#DnD' | relative_url }})
 
 ## Credit where it belongs
 
