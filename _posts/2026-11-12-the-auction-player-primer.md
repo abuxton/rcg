@@ -18,9 +18,11 @@ about guards, thieves, proxies and patrons, I wanted something I could hand to
 players before the doors open: enough shared context to start a conversation,
 without handing out the Game Master's surprises.
 
-The result is [**The Auction: a player primer** (PDF)]({{ '/assets/scenarios/the-auction-player-primer.pdf' | relative_url }}).
-It is a free download from this site only: it is not being sold, submitted to
-or distributed through DriveThruRPG or Dungeon Masters Guild.
+The result is *The Auction: a player primer*, a free, unofficial companion
+to the series. You can [read the primer on Homebrewery](https://homebrewery.naturalcrit.com/share/-V08MRgyIFzb)
+or [download its Homebrewery Markdown source]({{ '/assets/scenarios/the-auction-player-primer.md' | relative_url }}).
+It is not being sold, submitted to or distributed through DriveThruRPG or
+Dungeon Masters Guild.
 
 ## An invitation, not a script
 
@@ -38,13 +40,33 @@ start with fictional money, no real valuables and no physical contact
 unless everyone has explicitly agreed otherwise. Costume is welcome, not a
 condition of joining in.
 
-I made the companion with [The Homebrewery](https://homebrewery.naturalcrit.com/).
-The [Homebrewery Markdown source]({{ '/assets/scenarios/the-auction-player-primer.md' | relative_url }})
-and [companion stylesheet]({{ '/assets/scenarios/the-auction-player-primer.css' | relative_url }})
-are also available if you want to adapt the player-facing text for your own
-table. Paste the Markdown and stylesheet into the corresponding Homebrewery
-editor tabs and use the V3 renderer. The PDF is the finished version to share
-with players.
+## Making the primer
+
+I made the companion with [The Homebrewery](https://homebrewery.naturalcrit.com/),
+using its V3 renderer and **5e PHB** theme to turn Markdown into a page
+layout. The source includes the contents, an introduction to the event,
+character prompts, advice for the sale and an above-the-table section on
+playing comfortably together. It finishes with credits and links to the
+articles that inspired it.
+
+The [shared Homebrewery version](https://homebrewery.naturalcrit.com/share/-V08MRgyIFzb)
+can be read online or printed to PDF using its **get PDF** control. The
+downloadable Markdown is there for anyone who wants to read or adapt the
+player-facing text for their own table; Homebrewery's page and column breaks
+are part of that source.
+
+## A note on artwork
+
+The front and back covers are blank placeholders, and there are no
+illustrations in this edition. The Red Circle Games logo and Homebrewery
+theme provide the visual identity for now.
+
+I have used artificial intelligence (AI) as a tool for writing, layout and
+production, but I will not use AI-generated artwork in this publication.
+I would rather leave space for artwork than fill it that way. I plan to
+follow up with an article about finding artists, sourcing artwork and
+exploring open-source and openly licensed art, including what its licences
+allow.
 
 ## Where it fits in the series
 
