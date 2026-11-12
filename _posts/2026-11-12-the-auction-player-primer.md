@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Auction: a player primer for the evening"
-description: "A free, spoiler-free player primer for the auction, from security work to proxies and patrons."
+description: "Making a spoiler-free auction player primer with Homebrewery, from Markdown draft to shareable layout."
 category: posts
 tags: ["rpg", "l(a)rp", "parlour-larp", "game-design", "the-auction"]
 image:
@@ -18,11 +18,15 @@ about guards, thieves, proxies and patrons, I wanted something I could hand to
 players before the doors open: enough shared context to start a conversation,
 without handing out the Game Master's surprises.
 
+I also wanted to try making that handout as a small publication, rather than
+leaving it as another blog post. This article is about using Homebrewery to
+take the primer from a Markdown draft to a layout I can share and print, and
+about what still needs work before it is ready for publication.
+
 The result is *The Auction: a player primer*, a free, unofficial companion
 to the series. You can [read the primer on Homebrewery](https://homebrewery.naturalcrit.com/share/-V08MRgyIFzb)
 or [download its Homebrewery Markdown source]({{ '/assets/scenarios/the-auction-player-primer.md' | relative_url }}).
-It is not being sold, submitted to or distributed through DriveThruRPG or
-Dungeon Masters Guild.
+This is a work in progress, not the finished edition.
 
 ## An invitation, not a script
 
@@ -40,25 +44,62 @@ start with fictional money, no real valuables and no physical contact
 unless everyone has explicitly agreed otherwise. Costume is welcome, not a
 condition of joining in.
 
-## Making the primer
+## Making a publication with Homebrewery
 
-I made the companion with [The Homebrewery](https://homebrewery.naturalcrit.com/),
-using its V3 renderer and **5e PHB** theme to turn Markdown into a page
-layout. The source includes the contents, an introduction to the event,
-character prompts, advice for the sale and an above-the-table section on
-playing comfortably together. It finishes with credits and links to the
-articles that inspired it.
+[The Homebrewery](https://homebrewery.naturalcrit.com/) is a browser-based
+tool for laying out roleplaying material. I can write the words as
+Markdown, using headings, lists and links, and see them as pages rather than
+just a document full of formatting instructions. Homebrewery turns that
+source into HTML and applies styles to give the pages their appearance.
+That makes it useful for experimenting with a handout before committing to a
+finished design.
+
+For this primer I chose the V3 renderer and the **5e PHB** theme. The theme
+gives the draft a familiar rulebook-like appearance, while the text remains
+available to edit. The contents, introduction, character prompts, advice for
+the sale and above-the-table guidance are followed by credits and links back
+to the articles. The Red Circle Games logo sits with the attribution, rather
+than presenting this unofficial companion as the original adventure.
+
+### From words to pages
+
+The source is more than ordinary Markdown. Homebrewery understands commands
+such as `\page` for a new page and `\column` for a column break. I used
+these to start sections and arrange the material in columns; the opening and
+closing pages are intended as cover placeholders. The downloadable source
+lets you see those decisions alongside the words.
+
+This is the part where writing and layout start to affect each other. A
+paragraph that reads well in the editor can be awkward in a narrow column,
+and adding a sentence can push a heading or list into an uncomfortable
+place. I can change the text or a break, look at the preview and try again.
+Homebrewery also allows custom CSS when the theme needs adjusting, but a
+style change is not a substitute for checking each page.
+
+The contents is another thing to revisit after edits: its page numbers and
+links need to match where the sections actually land. The current draft
+still needs that check, as well as a review of column flow, legibility and
+the cover pages. I would not treat a good-looking preview as proof that the
+publication is finished.
+
+### Sharing and printing the draft
 
 The [shared Homebrewery version](https://homebrewery.naturalcrit.com/share/-V08MRgyIFzb)
-can be read online or printed to PDF using its **get PDF** control. The
-downloadable Markdown is there for anyone who wants to read or adapt the
-player-facing text for their own table; Homebrewery's page and column breaks
-are part of that source.
+can be read online. Its **get PDF** control opens the browser's print
+workflow, where the pages can be saved as a PDF. Check the paper size,
+background graphics and print preview before sharing the result: browser
+print settings can change what appears on the page.
+
+The [Markdown source]({{ '/assets/scenarios/the-auction-player-primer.md' | relative_url }})
+is available alongside the shared version for anyone who wants to see how
+this draft was put together or adapt the player-facing text for their own
+table. It contains Homebrewery-specific breaks, so it will not necessarily
+look the same in another Markdown viewer.
 
 ## A note on artwork
 
-The front and back covers are blank placeholders, and there are no
-illustrations in this edition. The Red Circle Games logo and Homebrewery
+The front and back covers are intended as blank placeholders, and there are
+no illustrations in this draft. The Red Circle Games logo and Homebrewery
 theme provide the visual identity for now.
 
 I have used artificial intelligence (AI) as a tool for writing, layout and
@@ -67,6 +108,15 @@ I would rather leave space for artwork than fill it that way. I plan to
 follow up with an article about finding artists, sourcing artwork and
 exploring open-source and openly licensed art, including what its licences
 allow.
+
+## What comes next
+
+I intend to publish a later edition on DriveThruRPG or Dungeon Masters Guild,
+but this draft is not ready for either. That is a future task: I want to
+source illustrations, update and review the layout, and check the relevant
+rights and platform requirements before deciding where to release it.
+For now, the shared Homebrewery version and Markdown are a way to see the
+work in progress, not a finished marketplace publication.
 
 ## Where it fits in the series
 
