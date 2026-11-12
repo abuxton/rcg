@@ -1,0 +1,94 @@
+@page {
+  size: A4;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  counter-reset: primer-page;
+}
+
+.page {
+  box-sizing: border-box;
+  position: relative;
+  width: 210mm;
+  height: 297mm;
+  padding: 18mm 22mm 20mm;
+  overflow: hidden;
+  column-count: 1;
+  background: #fff;
+  color: #24292f;
+  font: 11pt/1.48 Georgia, serif;
+  counter-increment: primer-page;
+  break-after: page;
+}
+
+.page .columnWrapper {
+  column-count: 1;
+  max-height: none;
+}
+
+.page:last-child {
+  break-after: auto;
+}
+
+.page::after {
+  position: absolute;
+  right: 22mm;
+  bottom: 10mm;
+  left: 22mm;
+  padding-top: 3mm;
+  border-top: 1px solid #aeb5bc;
+  color: #4d4d4d;
+  font: 9pt/1.2 Arial, sans-serif;
+  content: "Red Circle Games  |  The Auction  |  " counter(primer-page);
+}
+
+.page h1,
+.page h2,
+.page h3 {
+  color: #24292f;
+  font-family: Arial, sans-serif;
+  line-height: 1.2;
+  break-after: avoid;
+}
+
+.page h1 {
+  margin: 0 0 3mm;
+  font-size: 30pt;
+}
+
+.page h2 {
+  margin: 0 0 5mm;
+  padding-bottom: 3mm;
+  border-bottom: 2px solid #a31f28;
+  font-size: 19pt;
+}
+
+.page h3 {
+  margin: 5mm 0 2mm;
+  font-size: 13pt;
+}
+
+.page p {
+  margin: 0 0 3mm;
+}
+
+.page ul {
+  margin: 2mm 0 3mm;
+  padding-left: 6mm;
+}
+
+.page li {
+  margin-bottom: 1.5mm;
+}
+
+.page a {
+  color: #633036;
+  text-decoration: underline;
+}
+
+.page img {
+  display: block;
+  margin: 1mm 0 2mm;
+}
