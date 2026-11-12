@@ -3,7 +3,7 @@ layout: post
 title: "The Auction layer cake: one venue, four points of view"
 description: "Collecting four ways to develop a one-page adventure without losing the clarity that made it work."
 category: posts
-tags: ["l(a)rp", rpg, adventure-design, one-page-adventure, game-design]
+tags: ["l(a)rp", rpg, adventure-design, one-page-adventure, game-design, "the-auction", DnD]
 image:
   feature:
   credit:
@@ -21,6 +21,16 @@ That is my *layer cake* of the auction. It is not an attempt to replace or
 expand the original into a definitive module. It is a reminder to myself that
 a compact scenario can be a strong foundation precisely because it has not
 answered every question.
+
+## Series overview
+
+This is the final post in the *Auction* series. It builds on all previous posts and collects their design lessons:
+
+1. [**The Dwarven Auction: one page, one very busy hour**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }}) — the original security scenario and one-page review.
+2. [**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}) — the heist variation and planning approach.
+3. [**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}) — proxy play and social leverage mechanics.
+4. [**The Auction for patrons: when the party has its own money**]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}) — high-level play with status and consequences.
+5. [**The Auction for patrons as a parlour L(A)RP**]({{ '/posts/2026/09/27/the-auction-for-patrons-as-a-parlour-larp.html' | relative_url }}) — a playable evening event.
 
 ## The four layers
 
@@ -61,12 +71,14 @@ venue and organisers are equipped for it, and make sure every player has
 something they can actively pursue. A parlour game works when its guests have
 reasons to talk to one another, not when the room has enough fake treasure.
 
-## Series update
+## Design principles across the series
 
-The series now has a practical follow-up:
-[**The Auction for patrons as a parlour L(A)RP**]({{ '/posts/2026/09/27/the-auction-for-patrons-as-a-parlour-larp.html' | relative_url }}).
-It develops the patron-focused fourth layer into a small event where status,
-obligation and public reputation create the pressure.
+This *Auction* series demonstrates how a single compact premise can support
+diverse play styles without losing coherence. Each post builds on the insights
+of previous posts, exploring the same venue and situation from different angles:
+security, theft, proxy politics, high-level play, and finally an organized
+L(A)RP event. The design lessons apply whether you're running an RPG session,
+organizing a heist game, or hosting a parlour event.
 
 ## A respectful starting point
 

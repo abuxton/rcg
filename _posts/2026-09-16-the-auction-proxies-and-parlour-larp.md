@@ -3,7 +3,7 @@ layout: post
 title: "The Auction by proxy: bids, secrets and a parlour L(A)RP"
 description: "Using an auction to introduce rival patrons, then taking the same idea into a small parlour L(A)RP."
 category: posts
-tags: ["l(a)rp", rpg, parlour-larp, game-design, auction]
+tags: ["l(a)rp", rpg, parlour-larp, game-design, auction, "the-auction", DnD]
 image:
   feature:
   credit:
@@ -88,12 +88,12 @@ Next week I will look at the same building for characters who no longer need a
 patron's credit note: powerful adventurers invited to the sale in their own
 right.
 
-## Series update
+## Series overview
 
-This is the third post in the auction series. It follows
-[**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }})
-and leads to
-[**The Auction for patrons: when the party has its own money**]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}).
+This is the third post in the *Auction* series. It builds on:
+
+1. [**The Dwarven Auction: one page, one very busy hour**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }}) — the original security scenario and one-page review.
+2. [**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}) — the heist variation and planning approach.
 
 This is an unofficial design response to *The Dwarven Auction*, written and
 illustrated by **Nimrod Cortés** and published by

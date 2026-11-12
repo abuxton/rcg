@@ -3,7 +3,7 @@ layout: post
 title: "The Auction for patrons as a parlour L(A)RP"
 description: "Turning established adventurers, contested lots and social consequences into a small, playable parlour L(A)RP."
 category: posts
-tags: ["l(a)rp", parlour-larp, game-design, auction, adventure-design]
+tags: ["l(a)rp", parlour-larp, game-design, auction, adventure-design, "the-auction", DnD]
 image:
   feature:
   credit:
@@ -12,13 +12,13 @@ comments: false
 share: true
 ---
 
-In [*The Auction for patrons: when the party has its own
-money*]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}),
+In [**The Auction for patrons: when the party has its own
+money**]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}),
 I suggested that high-level characters are interesting at an auction because
 the room already knows who they are. A lock is rarely the problem. Being seen
 opening it is.
 
-That makes the same premise a strong third iteration of the auction as a
+That makes the same premise a strong final iteration of the auction as a
 parlour Live Action Role Play (L(A)RP). The earlier proxy game put delegates
 in the room on somebody else's behalf. This version asks players to be the
 people whose names are on the invitations: veterans, patrons, diplomats and
@@ -29,9 +29,10 @@ collectors with enough history that every public choice has a cost.
 The series began with [**a review of the one-page
 adventure**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }}),
 then looked at [**the auction as a
-heist**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}) and
-[**the auction by proxy**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}).
-All three are useful preparation for an organiser, even though this event has
+heist**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}),
+[**the auction by proxy**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}),
+and [**the auction for patrons**]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}).
+All four are useful preparation for an organiser, even though this event has
 no Game Master behind a screen.
 
 From the security version, I would keep the timetable and the sense that
@@ -40,7 +41,7 @@ information, preparations that can pay off and a reason not to solve every
 problem with force. From the proxy game, I would keep private briefs and the
 understanding that a bid is a social act, not merely a number.
 
-The patrons version adds the essential final ingredient: the characters'
+The patrons L(A)RP version adds the essential final ingredient: the characters'
 reputations belong in the room before their players do. It is possible to
 arrive with a fine coat, a famous name and a large purse, yet still be unable
 to bid without admitting something uncomfortable.
@@ -151,3 +152,12 @@ and illustrated by **Nimrod Cortés** and published by
 map are not reproduced. I am also grateful to the
 **[One Page Dungeon Contest](https://www.dungeoncontest.com/)** for the
 one-page adventure tradition that made this series possible.
+
+## Series overview
+
+This is the fifth post in the *Auction* series. It builds on all previous posts:
+
+1. [**The Dwarven Auction: one page, one very busy hour**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }}) — the original security scenario and one-page review.
+2. [**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}) — the heist variation and planning approach.
+3. [**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}) — proxy play and social leverage mechanics.
+4. [**The Auction for patrons: when the party has its own money**]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}) — high-level play with status and consequences.

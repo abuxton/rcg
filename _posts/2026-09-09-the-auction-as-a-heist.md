@@ -3,7 +3,7 @@ layout: post
 title: "The Auction as a heist: turn the keys around"
 description: "Reframing an auction-house security scenario as a planning-led RPG heist."
 category: posts
-tags: [rpg, heist, adventure-design, game-design]
+tags: [rpg, heist, adventure-design, game-design, "the-auction", DnD]
 image:
   feature:
   credit:
@@ -92,12 +92,11 @@ That is why the small original premise expands so easily. The place remains an
 auction house, but changing who has authority and who has a plan creates a
 different game entirely.
 
-## Series update
+## Series overview
 
-This is the second post in the auction series. It follows
-[**The Dwarven Auction: one page, one very busy hour**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }})
-and leads to
-[**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}).
+This is the second post in the *Auction* series. It builds on:
+
+1. [**The Dwarven Auction: one page, one very busy hour**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }}) — the original security scenario and one-page review.
 
 This is a new, unofficial response to *The Dwarven Auction*, written and
 illustrated by **Nimrod Cortés** and published by
