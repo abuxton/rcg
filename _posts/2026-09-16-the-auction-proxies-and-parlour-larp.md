@@ -95,6 +95,9 @@ This is the third post in the *Auction* series. It builds on:
 1. [**The Dwarven Auction: one page, one very busy hour**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }}) — the original security scenario and one-page review.
 2. [**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}) — the heist variation and planning approach.
 
+Browse all posts in this series via the tags:
+[**#the-auction**]({{ '/tags/#the-auction' | relative_url }}) or [**#DnD**]({{ '/tags/#DnD' | relative_url }})
+
 This is an unofficial design response to *The Dwarven Auction*, written and
 illustrated by **Nimrod Cortés** and published by
 **[OR15 Publishing](https://www.or15.com/)**. The original remains its

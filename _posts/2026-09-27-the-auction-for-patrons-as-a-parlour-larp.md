@@ -161,3 +161,6 @@ This is the fifth post in the *Auction* series. It builds on all previous posts:
 2. [**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}) — the heist variation and planning approach.
 3. [**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}) — proxy play and social leverage mechanics.
 4. [**The Auction for patrons: when the party has its own money**]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}) — high-level play with status and consequences.
+
+Browse all posts in this series via the tags:
+[**#the-auction**]({{ '/tags/#the-auction' | relative_url }}) or [**#DnD**]({{ '/tags/#DnD' | relative_url }})

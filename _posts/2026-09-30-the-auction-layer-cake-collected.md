@@ -32,6 +32,9 @@ This is the final post in the *Auction* series. It builds on all previous posts 
 4. [**The Auction for patrons: when the party has its own money**]({{ '/posts/2026/09/23/the-auction-for-established-adventurers.html' | relative_url }}) — high-level play with status and consequences.
 5. [**The Auction for patrons as a parlour L(A)RP**]({{ '/posts/2026/09/27/the-auction-for-patrons-as-a-parlour-larp.html' | relative_url }}) — a playable evening event.
 
+Browse all posts in this series via the tags:
+[**#the-auction**]({{ '/tags/#the-auction' | relative_url }}) or [**#DnD**]({{ '/tags/#DnD' | relative_url }})
+
 ## The four layers
 
 1. [**The original review**]({{ '/posts/2026/09/02/the-dwarven-auction-one-page-review.html' | relative_url }})

@@ -67,6 +67,9 @@ adventurers.
 This is the first post in the *Auction* series. Later posts explore the same
 one-page adventure from different viewpoints and build on the ideas introduced here.
 
+Browse all posts in this series via the tags:
+[**#the-auction**]({{ '/tags/#the-auction' | relative_url }}) or [**#DnD**]({{ '/tags/#DnD' | relative_url }})
+
 ## Credit where it belongs
 
 This is a review and response to *The Dwarven Auction*, a one-page adventure

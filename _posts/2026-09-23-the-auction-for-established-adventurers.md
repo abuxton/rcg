@@ -83,6 +83,9 @@ This is the fourth post in the *Auction* series. It builds on:
 2. [**The Auction as a heist: turn the keys around**]({{ '/posts/2026/09/09/the-auction-as-a-heist.html' | relative_url }}) — the heist variation and planning approach.
 3. [**The Auction by proxy: bids, secrets and a parlour L(A)RP**]({{ '/posts/2026/09/16/the-auction-proxies-and-parlour-larp.html' | relative_url }}) — proxy play and social leverage mechanics.
 
+Browse all posts in this series via the tags:
+[**#the-auction**]({{ '/tags/#the-auction' | relative_url }}) or [**#DnD**]({{ '/tags/#DnD' | relative_url }})
+
 This post is an unofficial design response to *The Dwarven Auction*, written
 and illustrated by **Nimrod Cortés** and published by
 **[OR15 Publishing](https://www.or15.com/)**. Its original text, artwork and
