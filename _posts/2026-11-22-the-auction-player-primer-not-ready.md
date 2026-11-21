@@ -99,6 +99,12 @@ texture. It may turn out that a restrained, mostly typographic booklet is
 better than a rushed illustrated one. That is a creative decision, not a
 failure to complete the asset list.
 
+I have opened a follow-up research task, [Research artwork sources and artist
+recruitment](https://github.com/abuxton/rcg/issues/94), to investigate open
+and permissively licensed artwork, ways to commission human artists and the
+press or creator resources offered by game developers. The aim is to record
+permissions and provenance before any image becomes part of the publication.
+
 ## What AI is useful for here
 
 I am happy to use artificial intelligence (AI) tools where they help with the
