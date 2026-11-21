@@ -98,6 +98,16 @@ share: true
 ### Writing style
 
 - **Voice**: personal, first-person, informal but thoughtful
+- **Energy**: use animated, conversational language rather than dry or formal
+  report prose; vary sentence rhythm and make room for personality
+- **Humour**: use light humour, gentle sarcasm, illustrative comparisons, and
+  natural British colloquialisms where they clarify the point
+- **Reference voice**: read several older posts on the same subject before
+  drafting; match their openings, rhetorical questions, concrete imagery, and
+  self-aware asides rather than imposing a generic editorial style
+- **Reader relationship**: write as a curious hobbyist sharing the workbench,
+  not as a publisher issuing a press release; keep technical explanations
+  grounded in what happened at the table or during the making
 - **English**: British spelling — `colour`, `organisation`, `licence`, `practise` (verb)
 - Avoid marketing or academic tone
 - Expand acronyms on first use: `Live Action Role Play (L(A)RP)`
